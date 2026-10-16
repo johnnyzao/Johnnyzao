@@ -44,8 +44,8 @@ text{font-family:JB,ui-monospace,Menlo,Consolas,monospace;font-size:20px;fill:#E
 <text x="96" y="88" clip-path="url(#c1)">whoami</text>
 <text class="n" x="44" y="180" clip-path="url(#cn)">Johnny</text>
 <rect x="365" y="118" width="27.7" height="68" fill="#4C8DFF" opacity="0"><animate attributeName="opacity" values="1;0" dur="1.1s" begin="1.9s" end="3.1s" calcMode="discrete" repeatCount="indefinite"/></rect>
-<text class="cm f" style="animation-delay:2.1s" x="48" y="240">// Somos do tamanho dos nossos sonhos,</text>
-<text class="cm f" style="animation-delay:2.35s" x="48" y="272">// e dentro de nós carregamos todos os sonhos do mundo.</text>
+<text class="cm f" style="animation-delay:2.1s" x="48" y="240">// O próximo nível não se espera.</text>
+<text class="cm f" style="animation-delay:2.35s" x="48" y="272">// Constrói-se.</text>
 <rect class="f" style="animation-delay:2.40s" x="662" y="112" width="20" height="20" rx="3" fill="#1E2735"/>
 <rect class="f" style="animation-delay:2.45s" x="686" y="112" width="20" height="20" rx="3" fill="#FF5F57"/>
 <rect class="f" style="animation-delay:2.50s" x="710" y="112" width="20" height="20" rx="3" fill="#28C840"/>
