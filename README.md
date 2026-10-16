@@ -1,6 +1,6 @@
 <!-- Cabeçalho animado inspirado em https://github.com/httpshani -->
 <p align="center">
-  <img src="./assets/johnny-header-v3.svg" width="100%" alt="Johnny — Não tenho todas as respostas. Tenho vontade de as encontrar. 🚀" />
+  <img src="./assets/johnny-header-v4.svg" width="100%" alt="johnny. ⚡ — Não tenho todas as respostas. Tenho vontade de as encontrar. 🚀" />
 </p>
 
 ---
@@ -31,5 +31,5 @@
   <a href="https://steamcommunity.com/id/lil_johnnyzao/"><img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198182267513&amp;show_in_game_bg=true" width="46%" align="top" alt="Estado Steam do Johnnyzao" /></a>
 </p>
 <p align="center">
-  <sub>Johnny ©2026</sub>
+  <sub>johnny. ⚡ ©2026</sub>
 </p>
