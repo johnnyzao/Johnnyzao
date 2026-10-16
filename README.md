@@ -1,21 +1,37 @@
-### Hi there 👋
+<!-- Cabeçalho animado inspirado em https://github.com/httpshani -->
+<p align="center">
+  <img src="./assets/johnny.svg" width="100%" alt="Johnny — Somos do tamanho dos nossos sonhos, e dentro de nós carregamos todos os sonhos do mundo." />
+</p>
 
-- 🔭 I’m currently working on learning python by myself.
-- 🌱 I’m currently learning a lot... you can see here.
-- 💬 Ask me about whatever you want.
-- 📫 How to reach me: On any of my social media.
-- ⚡ Fun fact: I am a gamer to, what a coicidence.
-<div align="center">
+---
+
+<p align="center">
+  <strong>Johnny</strong> · Entre linhas de código e mais uma partida.
+</p>
+
+---
+
+<p align="center">
+  <a href="https://johnnyzao.socials.com"><img src="https://img.shields.io/badge/WEBSITE-johnnyzao.socials.com-4C8DFF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white&amp;labelColor=05070f" alt="Website pessoal" /></a>
+  <a href="https://discord.gg/9mQQKEFd"><img src="https://img.shields.io/badge/DISCORD-entrar-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white&amp;labelColor=05070f" alt="Discord" /></a>
+  <a href="https://steamcommunity.com/id/lil_johnnyzao/"><img src="https://img.shields.io/badge/STEAM-perfil-66C0F4?style=for-the-badge&amp;logo=steam&amp;logoColor=white&amp;labelColor=05070f" alt="Perfil Steam do Johnny" /></a>
+</p>
+
+---
+
+<p align="center">
   <a href="https://github.com/Johnnyzao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Johnnyzao&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnnyzao&layout=compact&langs_count=7&theme=merko"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Johnnyzao&amp;show_icons=true&amp;theme=merko&amp;include_all_commits=true&amp;count_private=true" alt="Johnny's GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnnyzao&amp;layout=compact&amp;langs_count=7&amp;theme=merko" alt="Most Used Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,python,cs&amp;theme=dark&amp;perline=6" alt="JavaScript, React, HTML, CSS, Python e C#" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Johnny ©2026</sub>
+</p>
