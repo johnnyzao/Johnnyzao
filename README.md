@@ -33,5 +33,8 @@
 ---
 
 <p align="center">
+  <a href="https://steamcommunity.com/id/lil_johnnyzao/"><img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198182267513&amp;show_in_game_bg=true" height="170" alt="Estado Steam do Johnnyzao" /></a>
+</p>
+<p align="center">
   <sub>Johnny ©2026</sub>
 </p>
