@@ -1,6 +1,6 @@
 <!-- Cabeçalho animado inspirado em https://github.com/httpshani -->
 <p align="center">
-  <img src="./assets/johnny-header-v2.svg" width="100%" alt="Johnny — 🚀 Não tenho todas as respostas. Tenho vontade de as encontrar." />
+  <img src="./assets/johnny-header-v3.svg" width="100%" alt="Johnny — Não tenho todas as respostas. Tenho vontade de as encontrar. 🚀" />
 </p>
 
 ---
