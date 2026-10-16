@@ -33,9 +33,8 @@
 ---
 
 <p align="center">
-  <a href="https://discord.com/users/327064703689949185"><img src="https://lanyard.cnrad.dev/api/327064703689949185?theme=dark&amp;bg=0A0E16&amp;borderRadius=14px&amp;animated=true&amp;hideActivity=whenNotUsed&amp;hideTimestamp=true" height="170" alt="Estado Discord do Johnny" /></a>
-  &nbsp;
-  <a href="https://steamcommunity.com/id/lil_johnnyzao/"><img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198182267513&amp;show_in_game_bg=true" height="170" alt="Estado Steam do Johnnyzao" /></a>
+  <a href="https://discord.com/users/327064703689949185"><img src="https://lanyard.cnrad.dev/api/327064703689949185?theme=dark&amp;bg=0A0E16&amp;borderRadius=14px&amp;animated=true&amp;hideActivity=false&amp;hideTimestamp=true" width="52%" align="top" alt="Estado Discord do Johnny" /></a>
+  <a href="https://steamcommunity.com/id/lil_johnnyzao/"><img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198182267513&amp;show_in_game_bg=true" width="46%" align="top" alt="Estado Steam do Johnnyzao" /></a>
 </p>
 <p align="center">
   <sub>Johnny ©2026</sub>
