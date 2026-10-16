@@ -1,6 +1,6 @@
 <!-- Cabeçalho animado inspirado em https://github.com/httpshani -->
 <p align="center">
-  <img src="./assets/johnny.svg" width="100%" alt="Johnny — Somos do tamanho dos nossos sonhos, e dentro de nós carregamos todos os sonhos do mundo." />
+  <img src="./assets/johnny.svg" width="100%" alt="Johnny — O próximo nível não se espera. Constrói-se." />
 </p>
 
 ---
@@ -33,6 +33,8 @@
 ---
 
 <p align="center">
+  <a href="https://discord.com/users/327064703689949185"><img src="https://lanyard.cnrad.dev/api/327064703689949185?theme=dark&amp;bg=0A0E16&amp;borderRadius=14px&amp;animated=true&amp;hideActivity=whenNotUsed&amp;hideTimestamp=true" height="170" alt="Estado Discord do Johnny" /></a>
+  &nbsp;
   <a href="https://steamcommunity.com/id/lil_johnnyzao/"><img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198182267513&amp;show_in_game_bg=true" height="170" alt="Estado Steam do Johnnyzao" /></a>
 </p>
 <p align="center">
