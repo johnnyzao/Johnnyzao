@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <a href="https://johnnyzao.socials.com"><img src="https://img.shields.io/badge/WEBSITE-johnnyzao.socials.com-4C8DFF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white&amp;labelColor=05070f" alt="Website pessoal" /></a>
+  <a href="https://johnny-portfolio.pages.dev/"><img src="https://img.shields.io/badge/WEBSITE-johnny--portfolio.pages.dev-4C8DFF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white&amp;labelColor=05070f" alt="Website pessoal" /></a>
   <a href="https://discord.gg/9mQQKEFd"><img src="https://img.shields.io/badge/DISCORD-entrar-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white&amp;labelColor=05070f" alt="Discord" /></a>
   <a href="https://steamcommunity.com/id/lil_johnnyzao/"><img src="https://img.shields.io/badge/STEAM-perfil-66C0F4?style=for-the-badge&amp;logo=steam&amp;logoColor=white&amp;labelColor=05070f" alt="Perfil Steam do Johnny" /></a>
 </p>
