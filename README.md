@@ -15,8 +15,8 @@
 
 <p align="center">
   <a href="https://github.com/Johnnyzao">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Johnnyzao&amp;show_icons=true&amp;bg_color=0A0E16&amp;title_color=4C8DFF&amp;text_color=8B9BB4&amp;icon_color=4C8DFF&amp;border_color=1E2735&amp;ring_color=4C8DFF&amp;include_all_commits=true&amp;count_private=true" alt="Johnny's GitHub Stats" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnnyzao&amp;layout=compact&amp;langs_count=7&amp;bg_color=0A0E16&amp;title_color=4C8DFF&amp;text_color=8B9BB4&amp;icon_color=4C8DFF&amp;border_color=1E2735&amp;ring_color=4C8DFF" alt="Most Used Languages" />
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=Johnnyzao&amp;show_icons=true&amp;bg_color=0A0E16&amp;title_color=4C8DFF&amp;text_color=8B9BB4&amp;icon_color=4C8DFF&amp;border_color=1E2735&amp;ring_color=4C8DFF&amp;include_all_commits=true&amp;count_private=true" alt="Johnny's GitHub Stats" />
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Johnnyzao&amp;layout=compact&amp;langs_count=7&amp;bg_color=0A0E16&amp;title_color=4C8DFF&amp;text_color=8B9BB4&amp;icon_color=4C8DFF&amp;border_color=1E2735&amp;ring_color=4C8DFF" alt="Most Used Languages" />
   </a>
 </p>
 
