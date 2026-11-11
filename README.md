@@ -3,6 +3,10 @@
   <img src="./assets/johnny-header-v5.svg" width="100%" alt="johnny — Não tenho todas as respostas. Tenho vontade de as encontrar. 🚀" />
 </p>
 
+<p align="center"><strong>💻 Desenvolvimento · 🎨 Design · 🎮 Gaming</strong><br /><sub>Não tenho todas as respostas. Tenho vontade de as encontrar. 🚀</sub></p>
+
+<p align="center">🧭 <a href="https://johnny-portfolio.pages.dev/">Explorar o portfólio</a> · 💼 <a href="https://github.com/Johnnyzao/LusoFolio">Conhecer o LusoFolio</a></p>
+
 ---
 
 <p align="center">
